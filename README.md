@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript: the lack of error handling in functions.  The `bug.vbs` file shows a function that can cause a runtime error if the second parameter is zero. The solution, found in `bugSolution.vbs`, demonstrates how to add robust error handling to prevent these crashes.
